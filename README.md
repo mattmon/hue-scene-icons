@@ -116,8 +116,8 @@ homeassistant:
     scene.*lily:
       entity_picture: /local/hue_scene_icons/lily.png
 
-    scene.*magento:
-      entity_picture: /local/hue_scene_icons/magento.png
+    scene.*magneto:
+      entity_picture: /local/hue_scene_icons/magneto.png
 
     scene.*majestic_morning:
       entity_picture: /local/hue_scene_icons/majestic_morning.png
