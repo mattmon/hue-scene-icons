@@ -1,5 +1,19 @@
 # hue-scene-icons
 
+Current asset dump:
+
+- `icons/`: original 128px scene icons.
+- `cdp-scenes/large/`: 132 full scene gallery images.
+- `cdp-scenes/medium/`: 132 medium scene gallery images.
+- `cdp-scenes/thumbnails/`: 132 small scene gallery thumbnails.
+- `cdp-scenes/cached/`: 129 images copied from the local image cache.
+- `bundled-preset-scenes/`: bundled preset scene artwork in available scale variants.
+- `metadata/`: scene GUIDs, names, palettes, image URLs, categories, and cache mappings.
+
+Every asset URL referenced in `metadata/` has a local file mapping in
+`metadata/url-assets.json`, including file size and SHA-256 hash. The only URL
+that is not mirrored locally is the Home Assistant discussion link below.
+
 intended for use with:
 
 https://community.home-assistant.io/t/select-activate-hue-scenes-in-new-v2-api-setup/356057/69

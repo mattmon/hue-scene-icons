@@ -1,0 +1,674 @@
+{
+  "source": "Hue scene gallery category cache",
+  "extractedAt": "2026-05-12T03:09:29.705Z",
+  "data": {
+    "sceneCategories": {
+      "622a2f37-18c8-4f84-9498-a479801fc65c": {
+        "guid": "622a2f37-18c8-4f84-9498-a479801fc65c",
+        "name": "Cozy",
+        "sceneGuids": [
+          "ed21c67b-6059-4721-8995-6cb4d7bae19d",
+          "d098da1e-9311-4270-8f94-7072317d465d",
+          "2bbb750a-95c6-4159-a654-a620ec7c101a",
+          "d271d202-6856-4633-95ae-953ba73aee64",
+          "4f2ed241-5aea-4c9d-8028-55d2b111e06f",
+          "93984a4f-2d1b-4554-b972-b60fa8e476c5",
+          "edd77f6a-0198-44ac-b7c0-465dbd3d8707",
+          "a6a03e6a-fe6e-45bc-b686-878137f3ba91",
+          "4189ad6c-0be6-4f63-82d6-e4b3845029d6"
+        ]
+      },
+      "52a27dc6-e593-4f9d-88af-fa9cada5e54d": {
+        "guid": "52a27dc6-e593-4f9d-88af-fa9cada5e54d",
+        "name": "Peaceful",
+        "sceneGuids": [
+          "5228cb16-79de-421b-9ef9-569099ebe894",
+          "53742ab5-a15d-457d-84c4-0303acd25c81",
+          "b9deeedc-1f30-4152-90ba-e9c356f77871",
+          "747e2db1-d458-4c82-9b5c-c15f8273b90f",
+          "034d4ac9-a461-4b95-b59c-e2be9942ec28",
+          "fa01890f-2da3-4575-a0d0-b310fda02fb8",
+          "3bc285d2-cb38-4d51-98dc-8da84a82f034",
+          "23a4eec3-f67e-4c82-8837-5ef31cf93838",
+          "adfa9c3e-e9aa-4b65-b9d3-c5b2c0576715"
+        ]
+      },
+      "58dddb7e-b211-48e6-924c-faedcd8e0bb3": {
+        "guid": "58dddb7e-b211-48e6-924c-faedcd8e0bb3",
+        "name": "Dreamy",
+        "sceneGuids": [
+          "95471c58-6222-4a1f-99ae-0d473103937d",
+          "bdb900ce-7de1-40fb-a372-de61e18598c4",
+          "9694fc40-922b-44a6-a646-4ab4780aa51d",
+          "ff5dc7b4-0e7c-4990-86ac-8cd3dccec97d",
+          "68d526e2-6139-4855-bdb2-dd77acfdeba4",
+          "30162fd5-4b29-46fc-86ba-2c3649d4d127",
+          "b9b51b88-1570-4083-b8e4-bb02a981d2d2",
+          "f44b43b1-b6d1-46e1-8c15-00d2b551b6fa",
+          "a9038608-5e3e-4fde-8b31-2c03543445e3",
+          "975fd274-434c-4485-bccf-6ba649a39afb",
+          "bb42c7e0-ebaf-485d-b3c0-d879da0d6d89"
+        ]
+      },
+      "3523e04c-060a-42b0-a0dc-611cd5f624f0": {
+        "guid": "3523e04c-060a-42b0-a0dc-611cd5f624f0",
+        "name": "Winter whisper",
+        "sceneGuids": [
+          "975fd274-434c-4485-bccf-6ba649a39afb",
+          "40482fc3-1a6d-4d65-8aa9-60a8b6d93a5d",
+          "bb42c7e0-ebaf-485d-b3c0-d879da0d6d89",
+          "4189ad6c-0be6-4f63-82d6-e4b3845029d6",
+          "1e42b2e8-d02e-40d2-9c8d-b1fd8216c686",
+          "6e9492d8-035b-4f7c-b2b9-65973e7b3328",
+          "fa01890f-2da3-4575-a0d0-b310fda02fb8",
+          "284a13b9-af1e-4274-a099-0ce7ec00dfef"
+        ]
+      },
+      "DVbowMNrQLuc8naskD4e": {
+        "guid": "DVbowMNrQLuc8naskD4e",
+        "name": "Lush",
+        "sceneGuids": [
+          "10306e69-57ea-47a0-bd27-0efd001d0527",
+          "94f0895c-b38f-400f-873e-a93ed16fae4d",
+          "001d8ffa-3ca9-4662-8658-5ed0af976d23",
+          "6e9492d8-035b-4f7c-b2b9-65973e7b3328",
+          "cb67acc8-7fbe-4458-949e-f1dd6d21fae4",
+          "3fd1c2af-25a6-4dda-8931-56864e501db0",
+          "db4ded6b-b552-4e0d-a1ea-2f23d8880c8c",
+          "1e6ad4d1-d636-4afa-8a6d-1a68d35a7c8c"
+        ]
+      },
+      "cf7f2742-f634-4554-b92b-6da87eae3995": {
+        "guid": "cf7f2742-f634-4554-b92b-6da87eae3995",
+        "name": "Halloween",
+        "sceneGuids": [
+          "b5f5a765-8f72-4aef-af99-90a116818ad4",
+          "a93d1cb8-3ed3-444f-b727-e23936ab9e9d",
+          "a235fd77-25e7-450a-979a-42dbaee82a5d",
+          "d864a3dc-3925-49e9-b9ea-4415c0836326",
+          "f2c7785d-e49e-4f9c-a8c1-b443a14bbe9a",
+          "75457600-682c-437f-a83c-c411f3ec73e3",
+          "a30e93c1-1cbc-41d6-8425-a8f004d0ad35",
+          "5debd7d7-8506-4617-9a3f-bf78f58b6572"
+        ]
+      },
+      "4fc74376-f83c-47c3-9e98-cc2160b0b67c": {
+        "guid": "4fc74376-f83c-47c3-9e98-cc2160b0b67c",
+        "name": "Pure",
+        "sceneGuids": [
+          "b9c991c0-24b0-4267-ac02-84cc95074176",
+          "c6eab11b-10ea-42c0-936d-fb5692b897af",
+          "16282090-fe57-4f97-95a9-1420155f4d4f",
+          "a23f4a96-2c68-4655-acda-c29661f8b6ac",
+          "6799326d-e9cd-4b2a-9166-287509f841f3",
+          "f23b133f-7d9e-4edd-bf22-c2c4ba47b39d",
+          "ecbce974-7b1f-46da-a632-c57af04056f0",
+          "284a13b9-af1e-4274-a099-0ce7ec00dfef"
+        ]
+      },
+      "cf565ce1-d68c-4753-8485-958f63da1823": {
+        "guid": "cf565ce1-d68c-4753-8485-958f63da1823",
+        "name": "Party vibes",
+        "sceneGuids": [
+          "b17c7762-2619-4435-b931-313f17cc20e0",
+          "63d50cd6-5909-4f7b-8810-137d08f57c54",
+          "01e1d138-fc77-44e1-8012-c04fbae878e4",
+          "87cb1e51-f823-42b1-86e5-697fc0c3d2ae",
+          "60f088f5-4224-4f01-bcb1-81ef46099f63",
+          "60de81e9-ffa6-485a-b7d1-e50c47912f18",
+          "cc716363-44c2-4d64-88be-152d74072ea0"
+        ]
+      },
+      "c8ceb336-f6b7-4bf1-87d9-7b5eae017c8c": {
+        "guid": "c8ceb336-f6b7-4bf1-87d9-7b5eae017c8c",
+        "name": "Luxurious",
+        "sceneGuids": [
+          "e3fb3dfd-f746-442d-8e17-43afcb542bfc",
+          "9b4a6882-b2e5-4ce2-9235-75f93a3a70e2",
+          "19ba4ece-0dfd-4ea6-9cd8-ba267e1dac98",
+          "548374ca-d7bc-4183-9383-faaff262160c"
+        ]
+      },
+      "1beceb8c-0c97-4a85-8b0f-c1f83d7e7497": {
+        "guid": "1beceb8c-0c97-4a85-8b0f-c1f83d7e7497",
+        "name": "Serenity",
+        "sceneGuids": [
+          "9e1d16f5-f391-4306-a6d3-d15bca61eb56",
+          "d41d4a88-2019-48c6-84eb-a1080f2f7bd0",
+          "324509da-25d2-4d22-abab-e9091c0efb37",
+          "1e42b2e8-d02e-40d2-9c8d-b1fd8216c686",
+          "ce78a7c5-3507-447e-a872-e367963817f0",
+          "e6b53fe0-6b37-40bf-8c4e-f32afe95420f"
+        ]
+      },
+      "736b2ff0-ad8f-4bb4-a425-1c470dfb364a": {
+        "guid": "736b2ff0-ad8f-4bb4-a425-1c470dfb364a",
+        "name": "Futuristic",
+        "sceneGuids": [
+          "e4ee61c3-ecdd-4005-b483-58207e693258",
+          "d8d1a014-5551-4ada-8da1-5a527d7bc09b",
+          "05b493ae-d0ed-4b3c-8fea-3c1003e0aeb6",
+          "a8b531f3-2bec-4aa3-abb1-842418276799",
+          "703662f8-cfdc-4486-bf96-dfba46f22583",
+          "10f1768a-5872-4b6f-bb6c-4d2db7bd2eae"
+        ]
+      },
+      "0a1b6c32-7064-48e2-8e8e-53b3a69234c0": {
+        "guid": "0a1b6c32-7064-48e2-8e8e-53b3a69234c0",
+        "name": "Winter holidays",
+        "sceneGuids": [
+          "2821554b-b5f7-4deb-8292-a95feb42280f",
+          "3cdb01fa-2ba9-4975-b64e-f46c914b8b9b",
+          "93a6021b-955e-4fde-9d94-b77ec158106b",
+          "6787a536-1bc5-4eb7-8a4b-8d1553c5a7d2",
+          "39dccf09-09a1-4447-b6a9-2ce7167ae8a8",
+          "cb0f5370-c6af-414a-a0c1-e23be7136f01",
+          "6e6fe016-d9a8-4b87-81d2-696128e2c12d",
+          "c8647d7d-ca53-4b0f-81f5-03eb6ba233f1",
+          "4580a393-f90a-45b6-a92c-b64f19b5e1b3"
+        ]
+      },
+      "226b3a1c-6051-43c0-a651-120f8f668a01": {
+        "guid": "226b3a1c-6051-43c0-a651-120f8f668a01",
+        "name": "Refreshing",
+        "sceneGuids": [
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5",
+          "07591cf1-2594-4d6e-ae07-a032bc101ccc",
+          "8c74c49b-3f4c-4b14-86f5-99aa49ee9e5a",
+          "7f9638b1-1efc-4acc-8440-6bd70b0cf3f4",
+          "c550452e-efe8-4151-b57a-0cb77296b823"
+        ]
+      },
+      "c5826c6d-15ac-4c44-be69-a0b970ebf076": {
+        "guid": "c5826c6d-15ac-4c44-be69-a0b970ebf076",
+        "name": "Sunrise",
+        "sceneGuids": [
+          "860350c2-f2dc-4c1c-8e1f-1ddb65001e1d",
+          "ec790a2f-e63e-46cf-8a0f-1dd525e70f66",
+          "8150ea42-9e7e-447d-a668-1e3d26a6fafb",
+          "e15e34e3-6c93-4914-a274-7e73ac0ad2a0",
+          "51657196-e17c-47f6-8ed5-596237b152c8"
+        ]
+      },
+      "402da331-5128-45c2-9151-fefda1948e30": {
+        "guid": "402da331-5128-45c2-9151-fefda1948e30",
+        "name": "Romantic",
+        "sceneGuids": [
+          "499f48bd-53d2-41a4-8278-bf00344f1730",
+          "b73872b9-f641-4d85-8e7c-7124b93e90d0",
+          "c7e5c485-bc72-4ef1-a5ce-08ae6611c9fd",
+          "1ed5d588-7a9d-46ce-8e4b-cb08e0a19f9c",
+          "6c3599b0-3c2b-4019-b5bd-3e7e7764bceb",
+          "df93ccf7-8928-41eb-af11-eefdcffbb06a",
+          "f8db4e12-7406-4e05-ad6e-f09469ed7742"
+        ]
+      },
+      "1ab430cb-a15b-4306-b4c4-9667b14a5d5c": {
+        "guid": "1ab430cb-a15b-4306-b4c4-9667b14a5d5c",
+        "name": "Daily",
+        "sceneGuids": [
+          "afea2234-8d6f-4bb3-a174-8e5bd5f7372d",
+          "410b851f-e329-4a4f-b6cc-e51659118db4",
+          "3b0f3c83-26f1-4ece-a206-e764b49a05a6",
+          "7e8adc28-a0ef-4319-afbd-c206fd9e99a3",
+          "9bcc7653-5b19-437f-8bf2-332aa89b92d9",
+          "39e7d257-45f5-4112-bfc1-de02dd41ce13"
+        ]
+      },
+      "b6f92e94-3c2a-46a0-95a8-c4dfe4c126cc": {
+        "guid": "b6f92e94-3c2a-46a0-95a8-c4dfe4c126cc",
+        "name": "Defaults",
+        "sceneGuids": [
+          "7fd2ccc5-5749-4142-b7a5-66405a676f03",
+          "a1f7da49-d181-4328-abea-68c9dc4b5416",
+          "e101a77f-9984-4f61-aac8-15741983c656",
+          "b90c8900-a6b7-422c-a5d3-e170187dbf8c",
+          "11a09ad5-8d65-4e90-959b-f05981a9ab1b",
+          "28bbfeff-1a0c-444e-bb4b-0b74b88e0c95",
+          "dbccef2b-096e-49df-93c2-726665e80b26",
+          "732ff1d9-76a7-4630-aad0-c8acc499bb0b",
+          "8c74b9ba-6e89-4083-a2a7-b10a1e566fed"
+        ]
+      },
+      "15f19d5b-47dc-4ea3-8599-bf1f91d9c9f1": {
+        "guid": "15f19d5b-47dc-4ea3-8599-bf1f91d9c9f1",
+        "name": "Race day",
+        "sceneGuids": [
+          "0b6d2d48-1f78-4fa6-84d4-e37374da84b9",
+          "782299ec-3af0-483a-9f09-6198bfbd56d2",
+          "eec8faf8-2419-4da1-9c70-bf50bdbb3081",
+          "163210e3-69a3-4af6-92ea-ca0ae4e0627d",
+          "c3a1f243-c6a3-4f94-ac00-a7afb30fc867",
+          "03afc233-4845-4fe8-b2f4-f79873666326",
+          "00e5d2a6-305d-4270-ba63-fa1609a6fb26"
+        ]
+      },
+      "839ddfdc-ebd2-41fa-b36a-b5e180d1d1dc": {
+        "guid": "839ddfdc-ebd2-41fa-b36a-b5e180d1d1dc",
+        "name": "Spring breeze",
+        "sceneGuids": [
+          "fd79d349-2c48-4798-8425-a1af329456cb",
+          "07591cf1-2594-4d6e-ae07-a032bc101ccc",
+          "7f9638b1-1efc-4acc-8440-6bd70b0cf3f4",
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5",
+          "c550452e-efe8-4151-b57a-0cb77296b823",
+          "f23b133f-7d9e-4edd-bf22-c2c4ba47b39d",
+          "8c74c49b-3f4c-4b14-86f5-99aa49ee9e5a",
+          "adfa9c3e-e9aa-4b65-b9d3-c5b2c0576715"
+        ]
+      },
+      "ebdcca47-c3e2-46da-8bf6-33de418d0b1c": {
+        "guid": "ebdcca47-c3e2-46da-8bf6-33de418d0b1c",
+        "name": "Get cozy",
+        "sceneGuids": [
+          "ed21c67b-6059-4721-8995-6cb4d7bae19d",
+          "2bbb750a-95c6-4159-a654-a620ec7c101a",
+          "ff5dc7b4-0e7c-4990-86ac-8cd3dccec97d",
+          "f44b43b1-b6d1-46e1-8c15-00d2b551b6fa",
+          "d271d202-6856-4633-95ae-953ba73aee64",
+          "b9b51b88-1570-4083-b8e4-bb02a981d2d2"
+        ]
+      },
+      "ca4b48a1-3809-4f57-8cc1-be49abb2959b": {
+        "guid": "ca4b48a1-3809-4f57-8cc1-be49abb2959b",
+        "name": "Mood lighting",
+        "sceneGuids": [
+          "3fd1c2af-25a6-4dda-8931-56864e501db0",
+          "db4ded6b-b552-4e0d-a1ea-2f23d8880c8c",
+          "cb67acc8-7fbe-4458-949e-f1dd6d21fae4",
+          "6e9492d8-035b-4f7c-b2b9-65973e7b3328",
+          "94f0895c-b38f-400f-873e-a93ed16fae4d"
+        ]
+      },
+      "2b40098c-bf3c-4f21-acd1-a967158b36e8": {
+        "guid": "2b40098c-bf3c-4f21-acd1-a967158b36e8",
+        "name": "Date night",
+        "sceneGuids": [
+          "499f48bd-53d2-41a4-8278-bf00344f1730",
+          "b73872b9-f641-4d85-8e7c-7124b93e90d0",
+          "1ed5d588-7a9d-46ce-8e4b-cb08e0a19f9c",
+          "6c3599b0-3c2b-4019-b5bd-3e7e7764bceb",
+          "c7e5c485-bc72-4ef1-a5ce-08ae6611c9fd",
+          "df93ccf7-8928-41eb-af11-eefdcffbb06a",
+          "f8db4e12-7406-4e05-ad6e-f09469ed7742"
+        ]
+      },
+      "000ea13b-a629-4f2d-b4e3-1fb9d348e8fb": {
+        "guid": "000ea13b-a629-4f2d-b4e3-1fb9d348e8fb",
+        "name": "Cooking",
+        "sceneGuids": [
+          "b90c8900-a6b7-422c-a5d3-e170187dbf8c",
+          "e101a77f-9984-4f61-aac8-15741983c656",
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5",
+          "07591cf1-2594-4d6e-ae07-a032bc101ccc",
+          "7f9638b1-1efc-4acc-8440-6bd70b0cf3f4"
+        ]
+      },
+      "612b818e-f008-4097-af9f-3a8f9a28371d": {
+        "guid": "612b818e-f008-4097-af9f-3a8f9a28371d",
+        "name": "Dinnertime",
+        "sceneGuids": [
+          "9bcc7653-5b19-437f-8bf2-332aa89b92d9",
+          "7f9638b1-1efc-4acc-8440-6bd70b0cf3f4",
+          "23a4eec3-f67e-4c82-8837-5ef31cf93838",
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5",
+          "94f0895c-b38f-400f-873e-a93ed16fae4d",
+          "b9deeedc-1f30-4152-90ba-e9c356f77871"
+        ]
+      },
+      "28c4c5b1-0152-4e6e-a0b6-e064fc9e4864": {
+        "guid": "28c4c5b1-0152-4e6e-a0b6-e064fc9e4864",
+        "name": "Spa day",
+        "sceneGuids": [
+          "e3fb3dfd-f746-442d-8e17-43afcb542bfc",
+          "9b4a6882-b2e5-4ce2-9235-75f93a3a70e2",
+          "19ba4ece-0dfd-4ea6-9cd8-ba267e1dac98",
+          "548374ca-d7bc-4183-9383-faaff262160c"
+        ]
+      },
+      "b98c5e6a-efec-4ee2-a1ad-ca6a9fb44df9": {
+        "guid": "b98c5e6a-efec-4ee2-a1ad-ca6a9fb44df9",
+        "name": "All-day scenes",
+        "sceneGuids": [
+          "eb014820-a902-4652-8ca7-6e29c03b87a1",
+          "6444eb4a-6c93-4ae3-af8e-7d0bcf8ff8fb",
+          "fd79d349-2c48-4798-8425-a1af329456cb"
+        ]
+      },
+      "1c6b8cc9-60a9-4bc1-b7fd-e0ecbc2d5af8": {
+        "guid": "1c6b8cc9-60a9-4bc1-b7fd-e0ecbc2d5af8",
+        "name": "Working out",
+        "sceneGuids": [
+          "8c74c49b-3f4c-4b14-86f5-99aa49ee9e5a",
+          "f23b133f-7d9e-4edd-bf22-c2c4ba47b39d",
+          "ecbce974-7b1f-46da-a632-c57af04056f0",
+          "05b493ae-d0ed-4b3c-8fea-3c1003e0aeb6",
+          "e4ee61c3-ecdd-4005-b483-58207e693258",
+          "d8d1a014-5551-4ada-8da1-5a527d7bc09b"
+        ]
+      },
+      "cfed800b-cc47-4bf3-82bc-a3db1118770d": {
+        "guid": "cfed800b-cc47-4bf3-82bc-a3db1118770d",
+        "name": "Bedtime stories",
+        "sceneGuids": [
+          "ff5dc7b4-0e7c-4990-86ac-8cd3dccec97d",
+          "a6a03e6a-fe6e-45bc-b686-878137f3ba91",
+          "e4ee61c3-ecdd-4005-b483-58207e693258",
+          "1e42b2e8-d02e-40d2-9c8d-b1fd8216c686",
+          "9e1d16f5-f391-4306-a6d3-d15bca61eb56",
+          "d41d4a88-2019-48c6-84eb-a1080f2f7bd0"
+        ]
+      },
+      "5f04eb8b-5cac-4f3d-9cd7-d2ec6bcceafe": {
+        "guid": "5f04eb8b-5cac-4f3d-9cd7-d2ec6bcceafe",
+        "name": "Winding down",
+        "sceneGuids": [
+          "410b851f-e329-4a4f-b6cc-e51659118db4",
+          "d098da1e-9311-4270-8f94-7072317d465d",
+          "548374ca-d7bc-4183-9383-faaff262160c",
+          "9e1d16f5-f391-4306-a6d3-d15bca61eb56",
+          "19ba4ece-0dfd-4ea6-9cd8-ba267e1dac98",
+          "2bbb750a-95c6-4159-a654-a620ec7c101a"
+        ]
+      },
+      "9387c13d-3afb-46c1-a8fa-19ceb0b9efb6": {
+        "guid": "9387c13d-3afb-46c1-a8fa-19ceb0b9efb6",
+        "name": "Lunchtime",
+        "sceneGuids": [
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5",
+          "07591cf1-2594-4d6e-ae07-a032bc101ccc",
+          "7f9638b1-1efc-4acc-8440-6bd70b0cf3f4",
+          "39e7d257-45f5-4112-bfc1-de02dd41ce13",
+          "51657196-e17c-47f6-8ed5-596237b152c8",
+          "c6eab11b-10ea-42c0-936d-fb5692b897af"
+        ]
+      },
+      "1e4fb74e-e56a-43fc-a221-cb4aafe24cbe": {
+        "guid": "1e4fb74e-e56a-43fc-a221-cb4aafe24cbe",
+        "name": "Backyard get-together",
+        "sceneGuids": [
+          "00e5d2a6-305d-4270-ba63-fa1609a6fb26",
+          "dba71ef7-789b-41b0-b6dd-c86fcbd56c04",
+          "b17c7762-2619-4435-b931-313f17cc20e0",
+          "e4ee61c3-ecdd-4005-b483-58207e693258",
+          "d8d1a014-5551-4ada-8da1-5a527d7bc09b",
+          "87cb1e51-f823-42b1-86e5-697fc0c3d2ae"
+        ]
+      },
+      "b53b1a6b-a4a0-48b3-bfdd-9ef591047517": {
+        "guid": "b53b1a6b-a4a0-48b3-bfdd-9ef591047517",
+        "name": "Get ready for bed",
+        "sceneGuids": [
+          "a1f7da49-d181-4328-abea-68c9dc4b5416",
+          "3b0f3c83-26f1-4ece-a206-e764b49a05a6",
+          "d098da1e-9311-4270-8f94-7072317d465d",
+          "2bbb750a-95c6-4159-a654-a620ec7c101a",
+          "ed21c67b-6059-4721-8995-6cb4d7bae19d",
+          "d271d202-6856-4633-95ae-953ba73aee64"
+        ]
+      },
+      "c3d6010f-0e19-4fc4-83a5-526b101689e9": {
+        "guid": "c3d6010f-0e19-4fc4-83a5-526b101689e9",
+        "name": "A night in with friends",
+        "sceneGuids": [
+          "4f2ed241-5aea-4c9d-8028-55d2b111e06f",
+          "a6a03e6a-fe6e-45bc-b686-878137f3ba91",
+          "a9038608-5e3e-4fde-8b31-2c03543445e3",
+          "68d526e2-6139-4855-bdb2-dd77acfdeba4",
+          "e15e34e3-6c93-4914-a274-7e73ac0ad2a0",
+          "95471c58-6222-4a1f-99ae-0d473103937d"
+        ]
+      },
+      "20366440-241a-40b1-aec9-af69576d3251": {
+        "guid": "20366440-241a-40b1-aec9-af69576d3251",
+        "name": "Don't wake the baby",
+        "sceneGuids": [
+          "410b851f-e329-4a4f-b6cc-e51659118db4",
+          "afea2234-8d6f-4bb3-a174-8e5bd5f7372d",
+          "9e1d16f5-f391-4306-a6d3-d15bca61eb56",
+          "19ba4ece-0dfd-4ea6-9cd8-ba267e1dac98",
+          "548374ca-d7bc-4183-9383-faaff262160c"
+        ]
+      },
+      "df285956-1350-42eb-b047-9cf13141121d": {
+        "guid": "df285956-1350-42eb-b047-9cf13141121d",
+        "name": "Get ready for the day",
+        "sceneGuids": [
+          "b90c8900-a6b7-422c-a5d3-e170187dbf8c",
+          "39e7d257-45f5-4112-bfc1-de02dd41ce13",
+          "07591cf1-2594-4d6e-ae07-a032bc101ccc",
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5"
+        ]
+      },
+      "27530149-2765-4336-a7cf-8202c0dd4fa4": {
+        "guid": "27530149-2765-4336-a7cf-8202c0dd4fa4",
+        "name": "Lounging",
+        "sceneGuids": [
+          "10306e69-57ea-47a0-bd27-0efd001d0527",
+          "d271d202-6856-4633-95ae-953ba73aee64",
+          "6c3599b0-3c2b-4019-b5bd-3e7e7764bceb",
+          "1e6ad4d1-d636-4afa-8a6d-1a68d35a7c8c",
+          "1ed5d588-7a9d-46ce-8e4b-cb08e0a19f9c"
+        ]
+      },
+      "a89ddbe8-9727-47e1-90c1-065e814b553b": {
+        "guid": "a89ddbe8-9727-47e1-90c1-065e814b553b",
+        "name": "Waking up",
+        "sceneGuids": [
+          "7fd2ccc5-5749-4142-b7a5-66405a676f03",
+          "eb014820-a902-4652-8ca7-6e29c03b87a1",
+          "8c74c49b-3f4c-4b14-86f5-99aa49ee9e5a",
+          "39e7d257-45f5-4112-bfc1-de02dd41ce13",
+          "07591cf1-2594-4d6e-ae07-a032bc101ccc"
+        ]
+      },
+      "0f5a2b3f-d20b-40f0-9ec7-097857537065": {
+        "guid": "0f5a2b3f-d20b-40f0-9ec7-097857537065",
+        "name": "Throwing a party",
+        "sceneGuids": [
+          "e4ee61c3-ecdd-4005-b483-58207e693258",
+          "b17c7762-2619-4435-b931-313f17cc20e0",
+          "d8d1a014-5551-4ada-8da1-5a527d7bc09b",
+          "a8b531f3-2bec-4aa3-abb1-842418276799",
+          "87cb1e51-f823-42b1-86e5-697fc0c3d2ae",
+          "60f088f5-4224-4f01-bcb1-81ef46099f63"
+        ]
+      },
+      "cbb15916-0c39-4c61-b4fd-aec242db9e8c": {
+        "guid": "cbb15916-0c39-4c61-b4fd-aec242db9e8c",
+        "name": "Gaming",
+        "sceneGuids": [
+          "db4ded6b-b552-4e0d-a1ea-2f23d8880c8c",
+          "d8d1a014-5551-4ada-8da1-5a527d7bc09b",
+          "a8b531f3-2bec-4aa3-abb1-842418276799",
+          "703662f8-cfdc-4486-bf96-dfba46f22583",
+          "05b493ae-d0ed-4b3c-8fea-3c1003e0aeb6",
+          "10f1768a-5872-4b6f-bb6c-4d2db7bd2eae"
+        ]
+      },
+      "b1202d95-9fe7-46fa-b3a1-a0d73a9a64e3": {
+        "guid": "b1202d95-9fe7-46fa-b3a1-a0d73a9a64e3",
+        "name": "Yoga & meditation",
+        "sceneGuids": [
+          "95471c58-6222-4a1f-99ae-0d473103937d",
+          "e3fb3dfd-f746-442d-8e17-43afcb542bfc",
+          "e6b53fe0-6b37-40bf-8c4e-f32afe95420f",
+          "adfa9c3e-e9aa-4b65-b9d3-c5b2c0576715",
+          "747e2db1-d458-4c82-9b5c-c15f8273b90f",
+          "034d4ac9-a461-4b95-b59c-e2be9942ec28"
+        ]
+      },
+      "c70d9857-aee3-4708-bfb9-7881a8400ef0": {
+        "guid": "c70d9857-aee3-4708-bfb9-7881a8400ef0",
+        "name": "Daylight",
+        "sceneGuids": [
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5",
+          "39e7d257-45f5-4112-bfc1-de02dd41ce13",
+          "07591cf1-2594-4d6e-ae07-a032bc101ccc",
+          "7f9638b1-1efc-4acc-8440-6bd70b0cf3f4",
+          "b9deeedc-1f30-4152-90ba-e9c356f77871",
+          "51657196-e17c-47f6-8ed5-596237b152c8"
+        ]
+      },
+      "e971c0bc-b61d-42ec-b77f-50f003e454d7": {
+        "guid": "e971c0bc-b61d-42ec-b77f-50f003e454d7",
+        "name": "Outdoor dining",
+        "sceneGuids": [
+          "94f0895c-b38f-400f-873e-a93ed16fae4d",
+          "001d8ffa-3ca9-4662-8658-5ed0af976d23",
+          "01e1d138-fc77-44e1-8012-c04fbae878e4",
+          "10306e69-57ea-47a0-bd27-0efd001d0527",
+          "c7e5c485-bc72-4ef1-a5ce-08ae6611c9fd",
+          "b17c7762-2619-4435-b931-313f17cc20e0"
+        ]
+      },
+      "a09ab7c7-e545-42ae-aed2-18d75e6c46b0": {
+        "guid": "a09ab7c7-e545-42ae-aed2-18d75e6c46b0",
+        "name": "Working & studying",
+        "sceneGuids": [
+          "eb014820-a902-4652-8ca7-6e29c03b87a1",
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5",
+          "f23b133f-7d9e-4edd-bf22-c2c4ba47b39d",
+          "747e2db1-d458-4c82-9b5c-c15f8273b90f",
+          "51657196-e17c-47f6-8ed5-596237b152c8",
+          "c6eab11b-10ea-42c0-936d-fb5692b897af"
+        ]
+      },
+      "0a9df673-4294-4ca5-a9f0-b6b02dcf5b89": {
+        "guid": "0a9df673-4294-4ca5-a9f0-b6b02dcf5b89",
+        "name": "Reading",
+        "sceneGuids": [
+          "e101a77f-9984-4f61-aac8-15741983c656",
+          "7e8adc28-a0ef-4319-afbd-c206fd9e99a3",
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5",
+          "034d4ac9-a461-4b95-b59c-e2be9942ec28",
+          "16282090-fe57-4f97-95a9-1420155f4d4f",
+          "6799326d-e9cd-4b2a-9166-287509f841f3"
+        ]
+      },
+      "e4a4091c-277d-425d-84cf-278d90dd869b": {
+        "guid": "e4a4091c-277d-425d-84cf-278d90dd869b",
+        "name": "Breakfast",
+        "sceneGuids": [
+          "39e7d257-45f5-4112-bfc1-de02dd41ce13",
+          "8c74c49b-3f4c-4b14-86f5-99aa49ee9e5a",
+          "747e2db1-d458-4c82-9b5c-c15f8273b90f",
+          "034d4ac9-a461-4b95-b59c-e2be9942ec28",
+          "3bc285d2-cb38-4d51-98dc-8da84a82f034",
+          "a8897dcb-5c90-4459-8e4a-02b984bd32b5"
+        ]
+      },
+      "48348c90-1e9e-4441-9594-c7492e7b371c": {
+        "guid": "48348c90-1e9e-4441-9594-c7492e7b371c",
+        "name": "Wanderlust",
+        "sceneGuids": [
+          "e40a4c56-fdf7-4484-b421-e9889523e9d3",
+          "134790b1-d2ae-4570-8359-6f6b3566f648",
+          "bfa4375e-e253-400b-b472-62203a10afc8",
+          "eb917bf0-2d59-4350-b1dd-2d93bfaa455a",
+          "b2fbc4f3-5033-4f4a-b1f6-990301bea611",
+          "90bdf576-64ee-47e9-8900-c71ca4bb905b"
+        ]
+      },
+      "5b5ca5e1-cea4-4da4-abec-7ebb73dfb124": {
+        "guid": "5b5ca5e1-cea4-4da4-abec-7ebb73dfb124",
+        "name": "New scenes",
+        "sceneGuids": []
+      },
+      "d2cc32c9-9750-496e-98c6-a63f0207faf5": {
+        "guid": "d2cc32c9-9750-496e-98c6-a63f0207faf5",
+        "name": "Summer glow",
+        "sceneGuids": [
+          "dba71ef7-789b-41b0-b6dd-c86fcbd56c04",
+          "b037f15f-f7e4-46ab-b624-45ba2886c127",
+          "b17c7762-2619-4435-b931-313f17cc20e0",
+          "94f0895c-b38f-400f-873e-a93ed16fae4d",
+          "a23f4a96-2c68-4655-acda-c29661f8b6ac",
+          "4f2ed241-5aea-4c9d-8028-55d2b111e06f",
+          "001d8ffa-3ca9-4662-8658-5ed0af976d23",
+          "a6a03e6a-fe6e-45bc-b686-878137f3ba91",
+          "2bbb750a-95c6-4159-a654-a620ec7c101a",
+          "f44b43b1-b6d1-46e1-8c15-00d2b551b6fa"
+        ]
+      },
+      "568870a0-fd04-4e7d-a601-353f77c707fe": {
+        "guid": "568870a0-fd04-4e7d-a601-353f77c707fe",
+        "name": "Mellow mornings",
+        "sceneGuids": [
+          "747e2db1-d458-4c82-9b5c-c15f8273b90f",
+          "034d4ac9-a461-4b95-b59c-e2be9942ec28",
+          "3bc285d2-cb38-4d51-98dc-8da84a82f034",
+          "c6eab11b-10ea-42c0-936d-fb5692b897af",
+          "16282090-fe57-4f97-95a9-1420155f4d4f",
+          "51657196-e17c-47f6-8ed5-596237b152c8"
+        ]
+      },
+      "d338c80c-242e-478b-a28a-5bab75d788d1": {
+        "guid": "d338c80c-242e-478b-a28a-5bab75d788d1",
+        "name": "Harvest hues",
+        "sceneGuids": [
+          "6444eb4a-6c93-4ae3-af8e-7d0bcf8ff8fb",
+          "04bbe374-6445-4c56-971b-6e8eae6c54e5",
+          "8fd4fcf4-50db-4a9a-994b-adc74a293a9b",
+          "e330cd9c-6220-41aa-8c82-8e14c93e8fd6",
+          "f03b098c-bb63-4fae-8b79-0a21ed1de329",
+          "5ab5b7bf-a543-4859-8e69-447c3183cdfd",
+          "90bdf576-64ee-47e9-8900-c71ca4bb905b",
+          "bdb900ce-7de1-40fb-a372-de61e18598c4",
+          "6799326d-e9cd-4b2a-9166-287509f841f3"
+        ]
+      },
+      "5a9a5447-4987-4ee4-90c7-39413f77bd7c": {
+        "guid": "5a9a5447-4987-4ee4-90c7-39413f77bd7c",
+        "name": "Movie night",
+        "sceneGuids": [
+          "9e1d16f5-f391-4306-a6d3-d15bca61eb56",
+          "d41d4a88-2019-48c6-84eb-a1080f2f7bd0",
+          "d271d202-6856-4633-95ae-953ba73aee64",
+          "d098da1e-9311-4270-8f94-7072317d465d",
+          "324509da-25d2-4d22-abab-e9091c0efb37",
+          "1e42b2e8-d02e-40d2-9c8d-b1fd8216c686"
+        ]
+      },
+      "27c13b6f-406d-4977-94c9-b81ef50f01b1": {
+        "guid": "27c13b6f-406d-4977-94c9-b81ef50f01b1",
+        "name": "Rustic",
+        "sceneGuids": [
+          "8fd4fcf4-50db-4a9a-994b-adc74a293a9b",
+          "04bbe374-6445-4c56-971b-6e8eae6c54e5",
+          "5ab5b7bf-a543-4859-8e69-447c3183cdfd",
+          "e330cd9c-6220-41aa-8c82-8e14c93e8fd6",
+          "f03b098c-bb63-4fae-8b79-0a21ed1de329"
+        ]
+      },
+      "0c3b1d7e-b58d-4c08-834b-5fdf8bc70d2c": {
+        "guid": "0c3b1d7e-b58d-4c08-834b-5fdf8bc70d2c",
+        "name": "Vibrant",
+        "sceneGuids": [
+          "8816e302-0d50-45d8-917e-916590fa2240",
+          "cc40dfff-2023-489b-a4c6-ea2bc8ae9f8f",
+          "bbc6f351-4603-4216-8dcd-1e70a9f53501",
+          "dba71ef7-789b-41b0-b6dd-c86fcbd56c04",
+          "b037f15f-f7e4-46ab-b624-45ba2886c127"
+        ]
+      },
+      "85652c9a-e43d-41df-8099-31c9324f1601": {
+        "guid": "85652c9a-e43d-41df-8099-31c9324f1601",
+        "name": "Christmas",
+        "sceneGuids": [
+          "2821554b-b5f7-4deb-8292-a95feb42280f",
+          "3cdb01fa-2ba9-4975-b64e-f46c914b8b9b",
+          "93a6021b-955e-4fde-9d94-b77ec158106b",
+          "6787a536-1bc5-4eb7-8a4b-8d1553c5a7d2",
+          "39dccf09-09a1-4447-b6a9-2ce7167ae8a8",
+          "cb0f5370-c6af-414a-a0c1-e23be7136f01",
+          "6e6fe016-d9a8-4b87-81d2-696128e2c12d",
+          "c8647d7d-ca53-4b0f-81f5-03eb6ba233f1",
+          "4580a393-f90a-45b6-a92c-b64f19b5e1b3",
+          "40482fc3-1a6d-4d65-8aa9-60a8b6d93a5d"
+        ]
+      }
+    },
+    "etag": "9344434687065851131"
+  }
+}
